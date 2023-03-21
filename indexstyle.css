@@ -29,6 +29,15 @@
 }
 
 
+.title10{
+    margin-top: 700px;
+
+}
+.paragraph10{
+    margin-top: 500px;
+
+}
+
 .boxfooter{
     background-color: #f2f2f2;
     padding: 2em;
@@ -246,9 +255,7 @@ li {
 }
 
 .form{
-    float: right;
-    padding: 25px;
-
+float: right;
 }
 
 .qrcode:hover{
@@ -257,9 +264,14 @@ li {
 
 }
 
-.qrcode{
+.form1{
     float: left;
+}
+
+.qrcode{
+    padding: 10px;
     transition: all ease-in-out 1s;
+
 }
 
 
